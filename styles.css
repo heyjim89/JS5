@@ -1,0 +1,46 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    background: #f4f4f1;
+    text-shadow: 0px 1px 1px #fff;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Sans-Serif;
+}
+
+#parent {
+    width: 700px;
+}
+
+#main-conainer {
+    margin: 0 auto;
+    width: 900px;
+    padding: 30px;
+}
+
+.main-container {
+    background: #fff;
+    border-top: solid 1px #eee;
+    padding: 15px;
+    box-shadow: 0px 0px 1px black;
+}
+
+#text {
+    margin: 0 0 5px;
+}
+
+.editable {
+    cursor: pointer;
+}
+
+.edit-inside {
+    position: relative;
+}
+
+.edit-textarea {
+    width: 100%;
+    background: #ffffdd;
+    border: solid 1px #EDC648;
+}
