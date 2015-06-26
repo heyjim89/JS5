@@ -26,9 +26,9 @@ $(document).ready(function() {
 		// console.log(newText);
 		// console.log($(this).parent().siblings('p'));
 
-        $(this).parent().siblings('p').text(newText);
+		$(this).parent().siblings('p').text(newText);
 
-        // console.log($(this).siblings('p'));
+		// console.log($(this).siblings('p'));
 
 
 		$(".editable").show();
