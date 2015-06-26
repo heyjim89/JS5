@@ -7,14 +7,6 @@ body {
     max-width:920px;
 }
 
-h1 {
-    font-size: 24px;
-    font-family: Sans-Serif;
-    text-align: center;
-    border-bottom: 1px solid grey;
-    margin: 40px
-}
-
 .parent-container {
     width: 100%
 }
